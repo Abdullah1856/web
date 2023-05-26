@@ -1,2 +1,3 @@
 # web
-My firts portfolio that I created.
+My second portfolio that I created by learning Angela courses.
+https://abdullah1856.github.io/web/
